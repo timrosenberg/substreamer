@@ -408,3 +408,4 @@ When the user corrects your approach, append a one-line rule here before ending 
 - Affirmative action in a confirmation dialog uses a positive label (OK/Delete), never Cancel.
 - Shares exist for albums, playlists and the player queue — not individual songs.
 - Drop a one-line status note when working silently for a long stretch.
+- **Never merge a PR without the user's explicit go-ahead for that merge**, even when an issue's own written workflow includes a merge step. Open the PR and stop; wait to be told to merge.
